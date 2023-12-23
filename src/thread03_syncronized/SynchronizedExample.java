@@ -1,4 +1,4 @@
-package thread_03_syncronized;
+package thread03_syncronized;
 
 public class SynchronizedExample {
     private int count = 0;

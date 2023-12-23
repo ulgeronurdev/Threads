@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="70ee6953-202d-4b1b-bfa8-32196747c16d" name="Changes" comment="" />
+    <list default="true" id="70ee6953-202d-4b1b-bfa8-32196747c16d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread01/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread01/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread02/MyRunnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread02/MyRunnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread03_syncronized/SynchronizedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread03_syncronized/SynchronizedExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread04/SumThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread04/SumThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread04/ThreadSumMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread04/ThreadSumMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread05/ThreadExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread05/ThreadExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread06/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread06/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/thread06/ThreadBankExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/thread06/ThreadBankExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ZtrhfhZOOb66apJj6rLppvSR7M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,9 +45,82 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.ThreadExample">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread01.Main" />
+      <module name="Threads" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SynchronizedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread03_syncronized.SynchronizedExample" />
+      <module name="Threads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread05.ThreadExample" />
+      <module name="Threads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadSumMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread04.ThreadSumMain" />
+      <module name="Threads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thread02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread02.Main" />
+      <module name="Threads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadExample" />
+        <item itemvalue="Application.SynchronizedExample" />
+        <item itemvalue="Application.ThreadSumMain" />
+        <item itemvalue="Application.thread02.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
